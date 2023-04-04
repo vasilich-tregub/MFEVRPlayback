@@ -1,0 +1,6 @@
+EXPORTS
+    CreateEVRCustomPresenter
+    DllCanUnloadNow     PRIVATE
+    DllRegisterServer   PRIVATE
+    DllUnregisterServer PRIVATE
+    DllGetClassObject   PRIVATE
